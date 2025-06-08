@@ -1,0 +1,14 @@
+F:\C#\ProjectVote\bin\Debug\net9.0\ProjectVote.exe
+F:\C#\ProjectVote\bin\Debug\net9.0\ProjectVote.deps.json
+F:\C#\ProjectVote\bin\Debug\net9.0\ProjectVote.runtimeconfig.json
+F:\C#\ProjectVote\bin\Debug\net9.0\ProjectVote.dll
+F:\C#\ProjectVote\bin\Debug\net9.0\ProjectVote.pdb
+F:\C#\ProjectVote\obj\Debug\net9.0\ProjectVote.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\ProjectVote\obj\Debug\net9.0\ProjectVote.AssemblyInfoInputs.cache
+F:\C#\ProjectVote\obj\Debug\net9.0\ProjectVote.AssemblyInfo.cs
+F:\C#\ProjectVote\obj\Debug\net9.0\ProjectVote.csproj.CoreCompileInputs.cache
+F:\C#\ProjectVote\obj\Debug\net9.0\ProjectVote.dll
+F:\C#\ProjectVote\obj\Debug\net9.0\refint\ProjectVote.dll
+F:\C#\ProjectVote\obj\Debug\net9.0\ProjectVote.pdb
+F:\C#\ProjectVote\obj\Debug\net9.0\ProjectVote.genruntimeconfig.cache
+F:\C#\ProjectVote\obj\Debug\net9.0\ref\ProjectVote.dll
